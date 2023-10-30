@@ -1,2 +1,4 @@
 # Weed-Image-Processing-FYP-22-23
-My final year project for research titled Weed Image Processing based on Deep Learning for Precision Agriculture. Datasets are not provided in the repositories
+
+## Overview
+This includes the main code for my machine learning training and evaluation. The datasets used for the project were not provided in these repositories.
