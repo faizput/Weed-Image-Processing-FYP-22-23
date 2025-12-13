@@ -12,12 +12,12 @@ The project utilized transfer learning techniques by using structure and weights
 ## Evaluation Metrics & Prediction Preview
 Below are few examples of metrics used to evaluete the model.
 
-<img width="513" height="470" alt="Confusion Matrix" src="https://github.com/user-attachments/assets/63fb88dd-10ae-4f0c-b029-fc856e0de8d3" />
+<img width="200" height="200" alt="Confusion Matrix" src="https://github.com/user-attachments/assets/63fb88dd-10ae-4f0c-b029-fc856e0de8d3" />
 
-<img width="536" height="470" alt="ROC Curve" src="https://github.com/user-attachments/assets/b76f404b-6f3d-45d0-aec3-86aa17b6c2f1" />
+<img width="200" height="200" alt="ROC Curve" src="https://github.com/user-attachments/assets/b76f404b-6f3d-45d0-aec3-86aa17b6c2f1" />
 
-<img width="1189" height="490" alt="Training   Validation Accuracy" src="https://github.com/user-attachments/assets/174c3ed3-f434-44f6-a868-3b53b03f6acb" />
+<img width="200" height="200" alt="Training   Validation Accuracy" src="https://github.com/user-attachments/assets/174c3ed3-f434-44f6-a868-3b53b03f6acb" />
 
-<img width="1166" height="1190" alt="Image Prediction_Broad" src="https://github.com/user-attachments/assets/b38c2478-a5d1-4e2b-9158-988839b28c2f" />
+<img width="200" height="200" alt="Image Prediction_Broad" src="https://github.com/user-attachments/assets/b38c2478-a5d1-4e2b-9158-988839b28c2f" />
 
-<img width="750" height="350" alt="Grad-CAM Prediction" src="https://github.com/user-attachments/assets/92d07b21-23eb-4d38-b9ed-16f03200aae3" />
+<img width="200" height="200" alt="Grad-CAM Prediction" src="https://github.com/user-attachments/assets/92d07b21-23eb-4d38-b9ed-16f03200aae3" />
