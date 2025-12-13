@@ -12,4 +12,4 @@ The project utilized transfer learning techniques by using structure and weights
 ## Evaluation Metrics Preview
 Below are few examples of metrics used to evaluete the model.
 
-![Confusion Matrix](Evaluation%20Metric/Confusion Matrix.png)
+![Confusion Matrix]([https://github.com/username/repo-name/blob/main/Evaluation%20Metric/Confusion%20Matrix.png?raw=true](https://github.com/faizput/Weed-Image-Processing-FYP-22-23/blob/main/Evaluation%20Metric/Confusion%20Matrix.png?raw=true))
