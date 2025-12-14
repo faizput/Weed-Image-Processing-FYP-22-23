@@ -18,6 +18,6 @@ Below are few examples of metrics used to evaluete the model.
 
 <img width="200" height="200" alt="Training   Validation Accuracy" src="https://github.com/user-attachments/assets/174c3ed3-f434-44f6-a868-3b53b03f6acb" />
 
-<img width="200" height="200" alt="Image Prediction_Broad" src="https://github.com/user-attachments/assets/b38c2478-a5d1-4e2b-9158-988839b28c2f" />
-
 <img width="200" height="200" alt="Grad-CAM Prediction" src="https://github.com/user-attachments/assets/92d07b21-23eb-4d38-b9ed-16f03200aae3" />
+
+<img width="200" height="200" alt="Image Prediction_Broad" src="https://github.com/user-attachments/assets/b38c2478-a5d1-4e2b-9158-988839b28c2f" />
